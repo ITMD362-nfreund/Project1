@@ -3,6 +3,10 @@ body {
     background-color: grey;
 }
 
+h1 {
+    size: 30px;
+}
+
 .container {
     padding: 16px;
     background-color: white;
