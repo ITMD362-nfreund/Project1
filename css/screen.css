@@ -5,7 +5,13 @@ body {
 }
 
 h1 {
-    size: 80px;
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    height: 10%;
+    padding-top: 5%;
+    color: white;
+    background-color: gray
 }
 
 .container {
